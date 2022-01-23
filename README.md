@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DemonRai000
+- 👋 Hi, I’m BJ 
 - 👀 I’m interested in ... Learning to use Python and other backend programs to become a backend devolper
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Help
